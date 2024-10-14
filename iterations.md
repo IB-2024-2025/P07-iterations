@@ -68,11 +68,11 @@ puede serle de ayuda para configurar la clave ssh.
 [Estas instrucciones](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 explican cómo clonar un repositorio una vez obtenida su dirección en GitHub.
 
-para clonar el repositorio de esta práctica, cuya dirección es `git@github.com:IB-2023-2024/P07-iterations.git`
+para clonar el repositorio de esta práctica, cuya dirección es `git@github.com:IB-2024-2025/P07-iterations.git`
 en su máquina virtual Ubuntu de la asignatura acceda al directorio en el que esté organizando sus
 prácticas y ejecute:
 ```
-$ git clone git@github.com:IB-2023-2024/P07-iterations.git practica07-iterations
+$ git clone git@github.com:IB-2024-2025/P07-iterations.git
 ```
 En ese comando, el segundo parámetro (`practica07-iterations`) es el nombre del directorio donde se incluirá
 el contenido del repositorio que se está copiando.
