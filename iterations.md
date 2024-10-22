@@ -41,7 +41,7 @@ Si lo introduce en un navegador, se le solicitará que se autentifique en su cue
 y una vez autentificada/o le llevará a una pantalla
 [como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/join.png)
 en la que se le solicitará que se una a la "*classroom*" IB-2024-2025.
-Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
+Para ello ha de seleccionar su dirección de correo de la lista de identificadores (*Identifiers*) que figura en esa página.
 A continuación se le solicitará que "Acepte la tarea Practica-Nombre".
 Habrá una tarea asociada con cada una de las prácticas de la asignatura.
 
@@ -68,7 +68,7 @@ Ese mismo enlace es el que ha de utilizar para realizar una copia local (clone) 
 virtual y comenzar a trabajar en los ejercicios de la práctica:
 
 ```
-git clone https://github.com/IB-2024-2025/P08-functions <DirectorioLocal>
+git clone https://github.com/IB-2024-2025/P07-iterations <DirectorioLocal>
 ```
 
 ### Material de estudio complementario
