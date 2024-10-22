@@ -1,4 +1,4 @@
-# Práctica 07. Iteraciones. Git y GitHub.
+# Práctica 07. Iteraciones. GitHub Classroom.
 
 # Factor de ponderación: 7
 
