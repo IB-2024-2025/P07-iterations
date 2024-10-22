@@ -39,23 +39,24 @@ El enlace de invitación a la tarea que se le comunicará tiene una apariencia s
 `https://classroom.github.com/a/uNbth9vD`
 Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
 y una vez autentificada/o le llevará a una pantalla
-[como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/join.png)
+[como esta](https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/join.png)
 en la que se le solicitará que se una a la "*classroom*" IB-2024-2025.
 Para ello ha de seleccionar su dirección de correo de la lista de identificadores (*Identifiers*) que figura en esa página.
 A continuación se le solicitará que "Acepte la tarea Practica-Nombre".
 Habrá una tarea asociada con cada una de las prácticas de la asignatura.
 
 Cuando lo haya hecho aparecerá una pantalla 
-[como esta](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/accepted.png)
+[como esta](https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/accepted.png)
 que indica que ha aceptado Ud. la tarea asignada y
 cuando refresque la pantalla le mostrará 
-[otra pantalla](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/ready.png)
+[otra pantalla](https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/ready.png)
 en la que figura el enlace al repositorio que ha sido creado
 para su trabajo en la práctica.
 
 A través de ese enlace accederá Ud. en GitHub al repositorio privado que se ha creado para que desarrolle en
 él los programas correspondientes a la práctica en cuestión.
-[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2024-2025/P08-functions/refs/heads/main/link.png)
+[El enlace que figura en ese repositorio]
+(https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/link.png)
 (elija la opción SSH para el enlace) es el que ha de entregar Ud. en la tarea del aula virtual correspondiente a la práctica.
 
 Recuerde que para cada práctica tiene que entregar 2 elementos: 
