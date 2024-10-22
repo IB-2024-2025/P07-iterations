@@ -55,8 +55,7 @@ para su trabajo en la práctica.
 
 A través de ese enlace accederá Ud. en GitHub al repositorio privado que se ha creado para que desarrolle en
 él los programas correspondientes a la práctica en cuestión.
-[El enlace que figura en ese repositorio]
-(https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/link.png)
+[El enlace que figura en ese repositorio](https://raw.githubusercontent.com/IB-2024-2025/P07-iterations/refs/heads/main/link.png)
 (elija la opción SSH para el enlace) es el que ha de entregar Ud. en la tarea del aula virtual correspondiente a la práctica.
 
 Recuerde que para cada práctica tiene que entregar 2 elementos: 
